@@ -32,7 +32,7 @@ We believe great software is built in the open. Whether you're a developer, desi
 - **Contact**: hello@bitthicket.com (or open an issue)
 
 ### Fun Fact
-Our name comes from the idea of a "thicket" — a dense, resilient patch of innovation where ideas grow strong and protected. We move fast, stay focused, and always protect what matters most: user trust, data security, and long-term value.
+Our name is inspired by the **Big Thicket** of East Texas — a wild, incredibly diverse, and resilient ecosystem. My family has deep roots there, and we chose the name to reflect that same strength, complexity, and enduring spirit in the technology we build.
 
 ---
 
